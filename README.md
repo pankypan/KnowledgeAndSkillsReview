@@ -5,7 +5,11 @@
    1. 《X86汇编语言-从实模式到保护模式学习笔记》
    2. 《Linux0.11源码趣读》
 2. AI相关算法复习
+   1. 《机器学习实战》
+   2. 《深度学习入门》
+   3. 《Python深度学习》
 3. cpython--精通python
+   1. 《Python源码剖析》
 4. mysql底层框架&原理
 5. 大数据相关 HDFS、Doris
    1. [《Doris教程》](https://www.yuque.com/yxiansheng-njx6f/atzcxl/ppnd54dpqf7m4ppz)
